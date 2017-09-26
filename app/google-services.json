@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793804413927",
+    "firebase_url": "https://barcodeprototype-1baea.firebaseio.com",
+    "project_id": "barcodeprototype-1baea",
+    "storage_bucket": "barcodeprototype-1baea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793804413927:android:8e3dd2ed4b102590",
+        "android_client_info": {
+          "package_name": "com.example.aniru.barcodeprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793804413927-d9a7vqharsb5sa91fb6mg19nrvrh04j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aniru.barcodeprototype",
+            "certificate_hash": "05527aae174285d056618a56de479437ec7168bd"
+          }
+        },
+        {
+          "client_id": "793804413927-ejqq09pbjlia1usogiclc7ir8vql5ggb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjM6DedNTyBgnOca2ks455Q-QM_qkxUbM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793804413927-ejqq09pbjlia1usogiclc7ir8vql5ggb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -61,6 +61,7 @@ dependencies {
     compile('com.facebook.android:facebook-android-sdk:4.25.0')
     compile("com.twitter.sdk.android:twitter-core:3.0.0@aar") { transitive = true }
 
+    compile 'com.google.android.gms:play-services:11.4.0'
 }
 
 apply plugin: 'com.google.gms.google-services'
